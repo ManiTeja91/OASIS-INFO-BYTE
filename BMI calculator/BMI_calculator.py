@@ -1,3 +1,5 @@
+#Begginner level BMI Calculator project
+
 def BMI_calculator(weight, height):
     
     calculator = (weight/height**2)
